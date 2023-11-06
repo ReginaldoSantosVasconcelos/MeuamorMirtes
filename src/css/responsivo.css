@@ -1,0 +1,23 @@
+@media (max-width: 769px) {
+    .night {
+        /* Adapte conforme necessário */
+        background-color: #333;
+    }
+
+    /* Adapte outros estilos conforme necessário para telas menores */
+
+}
+
+@media (max-width: 425px) {
+    container {
+        /* Adapte conforme necessário */
+        padding: 10px;
+    }
+
+    .night {
+        /* Adapte conforme necessário */
+        background-color: #555;
+    }
+
+    /* Adapte outros estilos conforme necessário para telas ainda menores */
+}
